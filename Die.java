@@ -1,5 +1,4 @@
 /*
-Christian Vanzant
 CS 321
 September 26, 2021
 */
